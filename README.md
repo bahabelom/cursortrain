@@ -55,4 +55,3 @@ src/
 
 ## License
 
-MIT

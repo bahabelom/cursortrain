@@ -11,8 +11,9 @@ const Navbar = () => {
     <nav className="sticky top-0 w-full bg-white/10 backdrop-blur-md py-4 z-50">
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between">
-          <Link to="/" className="text-2xl font-bold text-white">
+          <Link to="/" className="text-2xl font-bold text-white flex items-center gap-2">
             Bahabelom G.
+        
           </Link>
 
           {/* Mobile menu button */}
@@ -80,4 +81,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar; 
+export default Navbar;

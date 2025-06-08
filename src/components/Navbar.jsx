@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="text-2xl font-bold text-white flex items-center gap-2">
             Bahabelom G.
-            <span className="bg-blue-600 text-xs text-white px-2 py-1 rounded ml-2">Feature Branch</span>
+        
           </Link>
 
           {/* Mobile menu button */}

@@ -37,6 +37,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="text-2xl font-bold text-white dark:text-yellow-300">
             Bahabelom G.
+        
           </Link>
 
           {/* Mobile menu button */}

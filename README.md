@@ -40,7 +40,7 @@ npm run build
 - React
 - Vite
 - TailwindCSS
-- React Router DOM
+- React Rout DOM
 - React Icons
 
 ## Project Structure

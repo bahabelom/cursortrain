@@ -1,4 +1,4 @@
-# React Landing Page
+# To test How cursor works efficiently
 
 A modern, responsive landing page built with React, Vite, and TailwindCSS.
 
